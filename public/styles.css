@@ -1,0 +1,34 @@
+.nav {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.nav a {
+    color: wheat;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    flex-direction: column;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+hr {
+    width: 90%;
+}
+
+form {
+    width: 100%;
+}
+
+.subtitle {
+    color: wheat;
+}
